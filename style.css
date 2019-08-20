@@ -1,18 +1,53 @@
-
-h1 {
-	text-align: center;
-    color: black;
-	font-weight:bold;
-	;
+img{ 
+    width: 350px;
+    height: auto ;
 }
 
-h2 { 
-	text-align: center;
-    color: black;
-    font-weight:bold; 
-	font-size: large
+body{
+	margin: 0px 165px 0px 165px;
+	
+}
+	
+h1{ 
+    text-align: center;
+    float : center;
+	margin : 0 0 10px 30px; 
+    color : #b3ccff;
+    font : 150% georgia, palatino, serif;
+    font-style : italic;
+	}
+	
+.para1{
+    text-align: center;
+	width:300px;
+	border:25px;
+	padding:25px;
+	border: thick double #32a1ce;
+    
 }
 
-p{ 	text-align: center;
-    color: SkyBlue;
+.para2{ 
+    text-align: center;
+	width:300px;
+	border:3px;
+    padding:25px;
+	border: thick double #32a1ce;
+	
+}
+
+.para3{
+	text-align: center;
+	width:300px;
+	border:3px;
+    padding:25px;
+	border: thick double #32a1ce;
+	
+}
+.para4{
+	text-align: center;
+	width:300px;
+	border:3px;
+    padding:25px;
+    border: thick double #32a1ce;
+	font-style : italic;
 }
